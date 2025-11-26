@@ -1,20 +1,98 @@
-<h1 align="center">Hi 👋, I'm Daniyal Javadia</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tcddaniyaljaved&label=Profile%20views&color=0e75b6&style=flat" alt="tcddaniyaljaved" /> </p>
-
-- 🔭 I’m currently working at **TechnoCom Development**
-
-- 🌱 I’m currently learning **ADSE - Advance Diploma in Software Engineering**
-
-- 👨‍💻 All of my projects are available at [https://daniyal-works-portfolio.vercel.app/](https://daniyal-works-portfolio.vercel.app/)
-
-- 📫 How to reach me **daniyaljavadiaworks@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniyal-javadia-849aa832a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniyal-javadia-849aa832a/" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/banner.png" alt="Daniyal Javadia Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p align="center">
+   🚀 Passionate about technology and continuous learning, I am a self-taught software developer with a strong foundation in web development.<br>
+   I specialize in building web scripts, static websites, and full-stack applications, constantly exploring modern tools and technologies.<br>
+   Currently pursuing my studies, I have evolved into a Full Stack JavaScript developer while also working with PHP and ASP.NET Core.<br>
+</p>
+
+<p align="center">
+   <strong>RESPONSIVE WEB DEVELOPER | PHP DEVELOPER | FULL STACK WEB DEVELOPER | ASP.NET CORE DEVELOPER</strong>
+</p>
+
+---
+
+### 🔭 **Currently**
+- Working as **.NET Developer** at Technocom Development
+- Pursuing **ADSE - Advanced Diploma in Software Engineering**
+
+---
+
+### 💻 **Languages and Tools** 🛠️
+
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jquery&logoColor=0769AD)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000000?style=flat&logo=.net&logoColor=512BD4)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter&logoColor=02569B)
+![React](https://img.shields.io/badge/-React%20+%20Vite-000000?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman&logoColor=FF6C37)
+![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio%202022-000000?style=flat&logo=visual-studio&logoColor=5C2D91)
+![SQL Server 2022](https://img.shields.io/badge/-SQL%20Server%202022-000000?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+![SQL Server 2012](https://img.shields.io/badge/-SQL%20Server%202012-000000?style=flat&logo=microsoft-sql-server&logoColor=CC2927)
+---
+
+### 🌍 **Deployment Platforms**
+
+![Github Pages](https://img.shields.io/badge/-Github%20Pages-000000?style=flat&logo=github-pages)  
+![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&logoColor=00C7B7)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+
+---
+
+### 🤓 **Currently Exploring**
+
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-000000?style=flat&logo=.net&logoColor=512BD4)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=777BB4)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=4169E1)
+![API](https://img.shields.io/badge/-REST%20API-000000?style=flat&logo=fastapi&logoColor=009688)
+![React + Vite](https://img.shields.io/badge/-React%20+%20Vite-000000?style=flat&logo=react&logoColor=61DAFB)
+
+
+---
+
+### 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniyal-javadia-a8b941379/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Daniyal%20Javadia-blue?logo=Linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn Badge" />
+  </a>
+  &nbsp;
+  <a href="mailto:daniyaljavadiaworks@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-daniyaljavadiaworks@gmail.com-red?logo=Gmail&logoColor=white&labelColor=EA4335" alt="Email Badge" />
+  </a>
+</p>
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=md-daniyaljavadia&show_icons=true&theme=github_dark" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=md-daniyaljavadia&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" height="180px" />
+</p>
+
+### 👨‍💻 **Portfolio**
+🔗 [daniyal-works-portfolio.vercel.app](https://daniyal-works-portfolio.vercel.app/)
+<p align="center">
+  <img alt="Coding GIF" width="320px" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
+</p>
+
+<p align="center">Feel free to reach out for collaboration or just a friendly hello! 😊</p>
+
